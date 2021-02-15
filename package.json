@@ -1,0 +1,53 @@
+{
+  "name": "trackers-react-demo",
+  "version": "0.1.0",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "@material-ui/core": "^4.9.10",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "awesome-phonenumber": "^2.34.0",
+    "axios": "^0.21.1",
+    "detect-node": "latest",
+    "dotenv": "^8.2.0",
+    "env-cmd": "^10.1.0",
+    "moment": "^2.25.3",
+    "poll-retry": "^0.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-dropzone": "^10.2.2",
+    "react-native": "^0.63.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "request": "^2.88.2",
+    "serve": "^11.3.2",
+    "symbl-node": "^1.0.11",
+    "uuid": "^8.3.1",
+    "web-vitals": "^0.2.4",
+    "websocket": "^1.0.32"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}

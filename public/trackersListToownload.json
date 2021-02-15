@@ -1,0 +1,194 @@
+[
+
+    {
+        "name": "Agent Empathy",
+        "vocabulary": ["I Wish I Could I wish I could give more",
+                     "Sorry for the inconvenience",
+                    "Sorry for the confusion",
+                    "Apologize for the confusion",
+                    "Sorry I was busy with other customers",
+                    "Totally understand",
+                    "Totally understand your position",
+                    "Totally understand where you're coming from",
+                    "Totally understand that feeling",
+                    "Totally understand what you are saying",
+                    "Totally understand I can realte",
+                    "Totally understand your frustration",
+                    "Totally understand hundred percent",
+                    "I understand your concern",
+                    "Unfortunately we could not",
+                    "Unfortunately at this time"
+                  ]
+    },
+  {
+    "name": "google Assistant",
+    "vocabulary": [
+      "Hi this is the google assistant  can i ask what you are calling about ?",
+      "The google subscriber you have called is not available",
+      ""
+                  ]
+  },
+  {
+    "name": "Republic Wireless / TextNow",
+    "vocabulary": [
+      "The republic wireless member you have called is not available",
+      "The text now subscriber you are trying to reach is not available",
+      ""
+    ]
+  },
+  {
+    "name": "Answering Machine 2",
+    "vocabulary": [
+      "please leave your message after the beep",
+      "please leave your message after the tone"
+
+    ]
+  },
+
+    {
+        "name": "Agent Politeness",
+        "vocabulary": ["Anything I Can Help With",
+                      "something I can help you with",
+                      "How can I help you",
+                      "appreciate your business",
+                      "appreciate your help",
+                      "apreciate your valued business",
+                      "appreciate your time",
+                      "appreciate your patience,",
+                      "excuse me",
+                      "if you don't mind",
+                      "beg your pardon",
+                      "thank you for your patience",
+                      "Glad to help",
+                      "happy to help",
+                      "no worries",
+                      "it have been my pleasure",
+                      "thank you for choosing us",
+                      "happy to return your call as soon as possible",
+                      "have a great day",
+                      "have an amazong day",
+                      "have a great rest of your day",
+                      "have a good eveining",
+                      "have a good morning",
+                      "have a good afternoon",
+                      "how are you",
+                      "I am sorry",
+                      "we are extremly sorry",
+                      "I am sorry we are just a second away",
+                      "I am sorry stay on the line momentarily",
+                      "I am sorry I didn't hear you",
+                      "Please let me",
+                      "Please wait please",
+                      "Please confirm",
+                      "Please will you",
+                      "Please can we",
+                      "Please wait",
+                      "Sir thanks",
+                      "Maam thanks",
+                      "Thank you, pleasure",
+                      "Thank you, awesome",
+                      "you're welcome"
+                    ]
+    },
+    {
+        "name": "Buyer Confusion",
+        "vocabulary": [
+                      "Don't Understand",
+                      "Don't Understand I'm confused",
+                      "Don't Understand because",
+                      "It's confusing",
+                      "Sorry Repeat That",
+                      "Sorry would you Repeat That",
+                      "Sorry can you Repeat That",
+                      "Tell me again",
+                      "Try to Explain",
+                      "Let me explain",
+                      "What Happens If",
+                      "What Happens If",
+                      "What was that"
+        ]
+    },
+    {
+        "name": "Cancellation Language",
+        "vocabulary": [
+                      "cancel appointment",
+                      "cancel membership",
+                      "cancel meeting",
+                      "cancel subscription",
+                      "cancel contract",
+                      "cancel reservation",
+                      "cancel for you",
+                      "I will cancel",
+                      "Need to Reschedule",
+                      "Can't Make The Appointment",
+                      "Go Ahead and Cancel",
+                      "I Have Appointment NEAR Need Cancel",
+                      "I Want to Cancel",
+                      "I Want to discontinue",
+                      "miss the apointment",
+                      "miss the meeting",
+                      "Not Going to Make It",
+                      "We Need Change Plan",
+                      "We gonna Change Plan",
+                      "We have to postpone"
+        ]
+    },
+    {
+        "name": "Verbal Clarity",
+        "vocabulary": [
+          "Could you repeat that",
+          "Would you repeat that",
+          "Can you reiterate that one more time",
+          "can you explain it again",
+          "cant hear you",
+          "unable to hear you",
+          "difficulty hearing you",
+          "Sorry having trouble hearing from you",
+          "I am not sure what you are asking",
+          "I am no sure what you are saying",
+          "I am no sure what you are referring",
+          "I am no sure what you meant",
+          "I dont follow what you are talking",
+          "I have no idea what you are talking",
+          "tell me again",
+          "speak english",
+          "Having hard time understanding",
+          "We cant understand",
+          "you misunderstood",
+          "We misundestood",
+          "sorry what was that",
+          "don't know what was that"
+        ]
+    },
+    {
+        "name": "Voice Message",
+        "vocabulary": [
+          "At the tone please record",
+          "Please leave message after tome",
+          "Call back during normal office hours",
+          "If you are calling about an emergency",
+          "Our offices are currently closed",
+          "Our repesentatives are unavailable at this time",
+          "Please leave message",
+          "start recording message",
+          "Begin recording message",
+          "sending you to his voicemail",
+          "Leave Name and contact info",
+          "Leave name and number",
+          "I can call after",
+          "Leave message with name",
+          "leave message with number",
+          "press to listen",
+          "press to record",
+          "press to send",
+          "Record your message",
+          "Return call ASAP",
+          "return your call as soon as possible",
+          "get back soon",
+          "get back as quickly as possible",
+          "Sorry we missed your call",
+          "sorry we missed you",
+          "You have reached office"
+        ]
+    }
+]
